@@ -1,0 +1,12 @@
+.node {
+    background-color: black;
+}
+
+.node-ativado {
+    background-color: red;
+}
+
+main>section>div>div {
+    width: 100px;
+    height: 100px;
+}
